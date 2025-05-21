@@ -264,3 +264,34 @@ body {
   border-radius: 8px 8px 0 0;
   margin-bottom: 10px;
 }
+
+
+.footer-image-container {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0 20px;
+}
+
+.footer-image {
+  max-width: 700px;
+  width: 90%;
+  height: auto;
+}
+
+.site-footer {
+  background-color: #003c80;
+  color: white;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 14px;
+  margin-top: 40px;
+}
+
+.site-footer a {
+  color: #00d757;
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
